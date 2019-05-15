@@ -21,6 +21,6 @@ INSERT INTO products (product_name, department_name, price, stock_quantity) VALU
 ('Awakening', 'Medicine', 100, 200),
 ('Full Restore', 'Medicine', 300, 100),
 ('Max Revive', 'Medicine', 500, 50),
-('HM01', 'Machines', 100, 15),
-('HM02', 'Machines', 100, 15),
-('HM03', 'Machines', 100, 15);
+('HM01', 'Machines', 400, 15),
+('HM02', 'Machines', 400, 15),
+('HM03', 'Machines', 400, 15);
