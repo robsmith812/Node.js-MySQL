@@ -53,7 +53,7 @@ function promptUserPurchase() {
                     var productData = data[0];
 
                     // console.log('productData = ' + JSON.stringify(productData));
-				    // console.log('productData.stock_quantity = ' + productData.stock_quantity);
+                    // console.log('productData.stock_quantity = ' + productData.stock_quantity);
 
                     if (quantity <= productData.stock_quantity) {
                         console.log('Your product is in stock! Placing order.');
